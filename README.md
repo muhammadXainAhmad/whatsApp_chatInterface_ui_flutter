@@ -17,7 +17,7 @@ A Flutter-based design of the WhatsApp chat interface. This project replicates k
 ---
 ## Screenshots 📸
 ### **Chat Interface**
-<img src="screenshots/chatPage.png" width="300"/>
+<img src="assets/chatPage.png" width="300"/>
 
 ---
 ##  Tech Stack 🛠️
