@@ -1,0 +1,9 @@
+# Prioritize Dart files in lib/ folder
+lib/** linguist-detectable=true
+
+# Deprioritize platform-specific auto-generated code
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+linux/** linguist-vendored
