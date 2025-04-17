@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_chat_page/Views/chat_list.dart';
+import 'package:whatsapp_chat_ui/Views/chat_list.dart';
 
 class MyChatPage extends StatefulWidget {
   const MyChatPage({super.key});

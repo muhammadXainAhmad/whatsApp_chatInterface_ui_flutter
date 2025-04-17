@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_chat_page/Views/chat_page.dart';
+import 'package:whatsapp_chat_ui/Views/chat_page.dart';
 
 class MyChatNavBar extends StatefulWidget {
   const MyChatNavBar({super.key});
